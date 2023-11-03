@@ -1,1 +1,2 @@
-python("okkkkkkkkk")
+print("okkkkkkkkk")
+print("okkkkkk")
